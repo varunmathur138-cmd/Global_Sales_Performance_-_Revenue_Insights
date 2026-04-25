@@ -1,78 +1,115 @@
-# Global Sales Performance & Revenue Insights (Excel)
+# 📊 Sales Performance Dashboard – Global Insights
 
-## Project Overview
-This project is an **interactive Sales Analytics Dashboard built in Microsoft Excel** to analyze business performance and generate actionable insights.
+## 📌 Project Overview
 
-It provides a clear view of:
-- Revenue trends over time  
-- Regional sales performance  
-- Country-wise contribution  
-- Key business KPIs  
+This project presents a **Sales Performance Dashboard** built to analyze global sales trends, regional contributions, and key business insights.
+The dashboard helps stakeholders understand **revenue patterns, top-performing regions, and sales fluctuations over time**.
 
 ---
 
-## Dashboard Highlights
-- Total Revenue: ₹ 1,327.32  
-- Total Orders: 1,000  
-- Average Order Value: ₹ 185  
-- Total Units Sold: 50,53,988  
+## 🎯 Objective
+
+* Analyze **global sales performance**
+* Identify **top contributing countries & regions**
+* Track **revenue trends over time**
+* Provide **data-driven insights for decision-making**
 
 ---
 
-## Key Features
-- KPI Cards for quick insights  
-- Yearly Revenue Trend (Line Chart)  
-- Top 10 Countries by Sales Contribution (Bar Chart)  
-- Region-wise Revenue Analysis  
-- Clean and visually appealing dashboard design  
+## 🧰 Tools & Technologies
+
+* 📊 Excel (Dashboard Creation)
+* 📈 Pivot Tables & Charts
+* 🧮 Data Cleaning & Transformation
+* 📉 Data Visualization Techniques
 
 ---
 
-##  Key Insights
--  Revenue peaked during **2014–15**  
--  Decline observed after 2015  
--  Cuba is the **top contributing country**  
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](./final/dashboard.png)
 
 ---
 
-##  Tools & Techniques Used
-- Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- Slicers & Filters  
-- Data Cleaning & Transformation  
-- Dashboard Design Principles  
+## 📊 Key Metrics (KPIs)
+
+* **Overall Sales:** 1.33 Million
+* **Order Volume:** 1,000
+* **Average Order Value:** ₹185
+* **Total Units Sold:** 50,53,988
 
 ---
 
-## File Structure
-- `Sales_Analytics.xlsx` → Main dashboard file  
----
-## Dashboard Preview
-![Dashboard Screenshot](./screenshot.png)
+## 📈 Key Insights
+
+* 📌 Revenue peaked during **2014–2015**
+* 📉 Decline observed after **2015**
+* 🌍 **Cuba** is the top contributing country
+* 🌎 **Sub-Saharan Africa** leads regional sales
 
 ---
 
-## How to Use
-1. Download the Excel file  
-2. Open in Microsoft Excel  
-3. Navigate to the **Dashboard Sheet**  
-4. Use filters/slicers (if added) to explore insights  
+## 📊 Analysis Breakdown
+
+### 🔹 Revenue Trend
+
+* Shows growth and decline patterns over years
+* Helps identify peak business periods
+
+### 🔹 Top Performing Countries
+
+* Highlights countries contributing maximum revenue
+* Useful for market expansion strategy
+
+### 🔹 Regional Contribution
+
+* Compares revenue across different regions
+* Identifies strongest and weakest markets
+
+### 🔹 Monthly Sales Trend
+
+* Tracks seasonal variations
+* Helps in demand forecasting
 
 ---
 
-## Project Purpose
-This project was created to:
-- Practice real-world data analysis  
-- Build interactive dashboards  
-- Improve business storytelling skills  
+## 💡 Business Recommendations
+
+* 📈 Focus on high-performing regions like **Sub-Saharan Africa**
+* 🌍 Expand operations in top countries like **Cuba**
+* 📉 Investigate reasons behind post-2015 decline
+* 📅 Optimize strategy based on monthly trends
 
 ---
 
-## 👨‍💻 Author
-**Kashish Mathur**
+## 📂 Project Structure
+
+```
+├── cleaned_data/
+├── final/
+│   └── dashboard.png
+├── raw_data/
+└── README.md
+```
 
 ---
 
-## Support
-If you like this project, give it a ⭐ on GitHub!
-This project focuses on analyzing sales data to uncover key business insights using Microsoft Excel. It includes data cleaning, transformation, and interactive dashboard creation to track performance and support decision-making.
+## 🧠 Skills Demonstrated
+
+* Data Cleaning
+* Data Analysis
+* Dashboard Design
+* Business Insight Generation
+* Storytelling with Data
+
+---
+
+## 📢 Conclusion
+
+This dashboard provides a **complete view of sales performance**, enabling better strategic decisions through **data-driven insights**.
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to connect!
