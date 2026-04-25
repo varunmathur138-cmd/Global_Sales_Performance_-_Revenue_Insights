@@ -1,4 +1,4 @@
- Sales Analytics Dashboard (Excel)
+# Global Sales Performance & Revenue Insights (Excel)
 
 ## Project Overview
 This project is an **interactive Sales Analytics Dashboard built in Microsoft Excel** to analyze business performance and generate actionable insights.
