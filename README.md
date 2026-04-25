@@ -27,7 +27,7 @@ The dashboard helps stakeholders understand **revenue patterns, top-performing r
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](./REPORT/Screenshot 2026-04-25 134046.png)
+![Dashboard Screenshot](REPORT/dashboard.png)
 
 ---
 
